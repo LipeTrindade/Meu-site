@@ -1,1 +1,3 @@
-Esse site está de pé desde ano passado, mas nesse ano eu tive uns problemas com o Git e tive que modificar a branch principal, por isso tem poucos commits.
+Meu site pessoal feito usando HTML e CSS.
+
+Nesse projeto, coloquei em prática meus conhecimentos de front-end, com o objetivo de fixar o aprendizado ao mesmo tempo em que criava um ambiente que servirá de portfólio no futuro.
