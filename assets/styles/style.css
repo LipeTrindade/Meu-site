@@ -72,9 +72,6 @@
             display: flex;
             flex-direction: column;
             flex-wrap: wrap;
-            
-            
-            
         }
 
         .apresentacao__conteudo {
@@ -82,7 +79,6 @@
             display: flex;
             flex-direction: column;
             gap: 40px;
-            
         }
 
         .apresentacao__conteudo__curriculo {
@@ -146,8 +142,6 @@
             text-decoration: none;
             color: var(--cor-secundaria);
             font-family: "Roboto Mono", serif;
-            
-
         }
 
         .apresentacao__botao__link:hover {
@@ -156,24 +150,21 @@
         }
 
         .imagem__principal {
-            width: 30%; 
+            width: 30%;
             border: 5px solid var(--cor-terciaria);
-            
-
         }
 
         .imagem__principal__about {
-            width: 40%;
-            margin-top: 7%;
+            width: 25%;
             border: 5px solid var(--cor-terciaria);
-
+            margin-right: 5%;
         }
 
         .imagem__botao {
             width: 8%;
         }
 
-        .rodeope {
+        .rodape {
             color: var(--cor-primaria);
             background-color: var(--cor-terciaria);
             display: flex;
